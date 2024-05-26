@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimisola
 - 👀 I’m interested in Java, Python, DevOps, Agile, AsciiDoc
-- 🌱 My plan to learn Flutter next
+- 🌱 My plan is _still_ to reall learn Typescript (NodeJS and React) as well as  Flutter 
 - 💞️ I’m looking to collaborate on Open Source project involving Java and its build tools, AsciiDoc and GitLab
 - 📫 How to reach me [@linkedin ](https://www.linkedin.com/in/jimisola/)
 
